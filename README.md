@@ -1,16 +1,23 @@
-### Hi there 👋
+# hey, i'm brooke.
 
-<!--
-**Breq16/breq16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://breq.dev/">
+    <img align="left" width="200" height="200" style="margin-right: 1rem;" src="flashy.gif" />
+</a>
 
-Here are some ideas to get you started:
+[If you're looking to get in touch, browse my projects, or read my thoughts, head to breq.dev.](https://breq.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You'll probably find me tinkering with Python, NodeJS, React, and Redis.
+
+| How to reach me... | |
+| --- | --- |
+| ...about my code? | Try the relevant GitHub issue tracker |
+| ...through encrypted messaging? | I'm on Keybase as [breq](https://keybase.io/breq) |
+| ...anything else? | You can email me at [breq@breq.dev](mailto:breq@breq.dev) |
+| | *(my pronouns are she/her)* |
+
+<br />
+<br />
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=breq16" />
+</p>
