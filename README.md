@@ -8,12 +8,12 @@
 
 You'll probably find me tinkering with Python, NodeJS, React, and Redis.
 
-| How to reach me... | |
-| --- | --- |
-| ...about my code? | Try the relevant GitHub issue tracker |
-| ...through encrypted messaging? | I'm on Keybase as [breq](https://keybase.io/breq) |
-| ...anything else? | You can email me at [breq@breq.dev](mailto:breq@breq.dev) |
-| | *(my pronouns are she/her)* |
+| How to reach me...              |                                                           |
+| ------------------------------- | --------------------------------------------------------- |
+| ...about my code?               | Try the relevant GitHub issue tracker                     |
+| ...through encrypted messaging? | I'm on Keybase as [breq](https://keybase.io/breq)         |
+| ...anything else?               | You can email me at [breq@breq.dev](mailto:breq@breq.dev) |
+|                                 | _(my pronouns are she/her)_                               |
 
 <br />
 <br />
@@ -21,3 +21,15 @@ You'll probably find me tinkering with Python, NodeJS, React, and Redis.
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=breq16" />
 </p>
+
+---
+
+## Sponsors
+
+Generous contributions from these people make my projects possible:
+
+| <a href="https://github.com/EpocDotFr"><img src="https://github.com/EpocDotFr.png" width="60px" alt="" /></a> |
+| ------------------------------------------------------------------------------------------------------------- |
+| [EpocDotFr](https://github.com/EpocDotFr)                                                                     |
+
+You can sponsor me on [GitHub Sponsors](https://github.com/sponsors/Breq16) or [Ko-fi](https://ko-fi.com/breq16).
