@@ -22,6 +22,7 @@ You'll probably find me tinkering with Python, NodeJS, React, and Redis.
     <img src="https://github-readme-stats.vercel.app/api?username=breq16" />
 </p>
 
+<!--
 ---
 
 ## Sponsors
@@ -33,3 +34,4 @@ Generous contributions from these people make my projects possible:
 | [EpocDotFr](https://github.com/EpocDotFr)                                                                     |
 
 You can sponsor me on [GitHub Sponsors](https://github.com/sponsors/Breq16) or [Ko-fi](https://ko-fi.com/breq16).
+-->
