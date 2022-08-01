@@ -1,12 +1,21 @@
 # hey, i'm brooke.
 
 <a href="https://breq.dev/">
-    <img align="left" width="200" height="200" style="margin-right: 1rem;" src="flashy.gif" />
+    <img align="left" width="200" height="200" src="flashy.gif" />
 </a>
 
-[If you're looking to get in touch, browse my projects, or read my thoughts, head to breq.dev.](https://breq.dev/)
+&nbsp;&nbsp;&nbsp;[If you're looking to get in touch or browse my projects, head to breq.dev.](https://breq.dev/)
 
-You'll probably find me tinkering with Python, NodeJS, React, and Redis.
+&nbsp;&nbsp;&nbsp;You'll probably find me tinkering with Python, NodeJS, React, and Rust.
+
+
+<br />
+<br />
+
+<br />
+<br />
+<br />
+<br />
 
 | How to reach me...              |                                                           |
 | ------------------------------- | --------------------------------------------------------- |
@@ -15,23 +24,14 @@ You'll probably find me tinkering with Python, NodeJS, React, and Redis.
 | ...anything else?               | You can email me at [breq@breq.dev](mailto:breq@breq.dev) |
 |                                 | _(my pronouns are she/her)_                               |
 
-<br />
-<br />
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=breq16" />
-</p>
-
-<!--
----
 
 ## Sponsors
 
 Generous contributions from these people make my projects possible:
 
-| <a href="https://github.com/EpocDotFr"><img src="https://github.com/EpocDotFr.png" width="60px" alt="" /></a> |
+| <a href="https://github.com/ava-silver"><img src="https://github.com/ava-silver.png" width="60px" alt="" /></a> |
 | ------------------------------------------------------------------------------------------------------------- |
-| [EpocDotFr](https://github.com/EpocDotFr)                                                                     |
+| [ava-silver](https://github.com/ava-silver)                                                                     |
 
 You can sponsor me on [GitHub Sponsors](https://github.com/sponsors/Breq16) or [Ko-fi](https://ko-fi.com/breq16).
--->
+
