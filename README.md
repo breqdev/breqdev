@@ -25,6 +25,7 @@
 |                                 | _(my pronouns are she/her)_                               |
 
 
+<!--
 ## Sponsors
 
 Generous contributions from these people make my projects possible:
@@ -34,4 +35,4 @@ Generous contributions from these people make my projects possible:
 | [ava-silver](https://github.com/ava-silver)                                                                     |
 
 You can sponsor me on [GitHub Sponsors](https://github.com/sponsors/breqdev) or [Ko-fi](https://ko-fi.com/breqdev).
-
+-->
