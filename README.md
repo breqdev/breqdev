@@ -1,13 +1,10 @@
-# hey, i'm brooke.
+# Hey, I'm Brooke.
 
 <a href="https://breq.dev/">
-    <img align="left" width="200" height="200" src="flashy.gif" />
+    <img align="right" width="200" height="200" src="flashy.gif" />
 </a>
 
-&nbsp;&nbsp;&nbsp;[If you're looking to get in touch or browse my projects, head to breq.dev.](https://breq.dev/)
-
-&nbsp;&nbsp;&nbsp;You'll probably find me tinkering with Python, NodeJS, React, and Rust.
-
+[If you're looking to get in touch or browse my projects, head to breq.dev.](https://breq.dev/)
 
 <br />
 <br />
@@ -16,14 +13,6 @@
 <br />
 <br />
 <br />
-
-| How to reach me...              |                                                           |
-| ------------------------------- | --------------------------------------------------------- |
-| ...about my code?               | Try the relevant GitHub issue tracker                     |
-| ...through encrypted messaging? | I'm on Keybase as [breq](https://keybase.io/breq)         |
-| ...anything else?               | You can email me at [breq@breq.dev](mailto:breq@breq.dev) |
-|                                 | _(my pronouns are she/her)_                               |
-
 
 <!--
 ## Sponsors
